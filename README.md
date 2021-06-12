@@ -1,5 +1,6 @@
 # pymaceuticals
 Observations and Insights
+
 •	The effectiveness of Capomulin and Ramicane are similar, but are significantly more effective than Infubinol and Ceftamine (see box plots of final tumor volumes)
 
 •	The heavier the mouse, the less effective the drug is (see scatter plot). This is a reliable conclusion due to strong r-value correlation (0.95) resulting from the linear regression.
